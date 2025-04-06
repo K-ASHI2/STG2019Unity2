@@ -1,0 +1,4065 @@
+fileFormatVersion: 2
+guid: 7b11481612e55174487ce668d645c340
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: starBomb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5106a4714dbbf4cb8dd9d67dd6519e
+      internalID: 2068849571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b594dea6469fd4badea08f1ff6678a
+      internalID: -434298445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_2
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96c892f24834643999d991dd81aadb
+      internalID: 204453495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_3
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bf58dc6b5528c4a83046c634e5a1e1
+      internalID: 1545010114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_4
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69323ef2505c17a4293996b86b932ba3
+      internalID: 712192863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_5
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7580cdeee2afcf94b99ec082c8e031d2
+      internalID: 765352670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_6
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec50bd47c858f54e9e0b73d262ed211
+      internalID: -1604319620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_7
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0310d4a72a9875a4692c028c553d7353
+      internalID: -589053607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_8
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eddfc7d630173b41860c07791f139aa
+      internalID: 1036817354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_9
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af22d8125a3e2ac47ab5c1e6bc92673c
+      internalID: 1365292375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_10
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62126574bb86384b8a95a0008b1ad1f
+      internalID: 451878660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_11
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9cd32eba009f418d32c81fec95148
+      internalID: -1885412616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_12
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 6643
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8055afbab682d37449f34e541b10e376
+      internalID: -685076314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f49a29ff2267c4684fca8f282d4a32
+      internalID: -298811249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b7dda644ff90d4d94ae58c7e05f864
+      internalID: 1109636433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_15
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d2188bd1fb2d242b97b0017b8f29f0
+      internalID: -240702846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_16
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b875d6281bce1e043a36d22a0695e675
+      internalID: 1007568417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_17
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d6b9fee66ea9b49b0e6a29860e8f13
+      internalID: -331468973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_18
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8031664d59bc72a41b30fd93e32f3f09
+      internalID: 2066320630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_19
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db94224c5334844a862ac0d2b1a877
+      internalID: -272669257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_20
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00da062b9309f24a828c9639511a39f
+      internalID: 909295556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_21
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d9f21cf7da78d4c8f6fa57b5c06e78
+      internalID: -1820513922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_22
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9acd55da2a8144f9ceec40034f8b3a
+      internalID: 1007946730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_23
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc66ab83cad7ed4ab50aa1723bb4c75
+      internalID: -980810670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_24
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a0077157a053d40948eae40de1f4ee
+      internalID: -1088727112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_25
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 6132
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c548f28d8292a9545aeadf6e81138bb1
+      internalID: 1391041093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7440ba117689c8d45baa5d0ac80f080a
+      internalID: -1584903511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b63951e749a2f4598e37eb3ad5e9ac
+      internalID: -112337841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_28
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80745bcdd2d92f44fb7a4a144b2170d8
+      internalID: 769673746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_29
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247762637cc67b6459c463b1e19bf49e
+      internalID: -1717455646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_30
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca98e987248da9e43beb3fc7f85a5e5d
+      internalID: 1894895710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_31
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc06f72ae1d32ed4f8d29a9411e793a0
+      internalID: -152819547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_32
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e03bff11d93374684ec9dda9332f18
+      internalID: -978811649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_33
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b172ae3b08981a34bb8ab4236959d07c
+      internalID: 755523166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_34
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f0356013baf8f4ba98291f764f10a5
+      internalID: -1856233823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_35
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede99f9ce5520934aae9c1f5fa6570a2
+      internalID: -1940110651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_36
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7f03bf586981d4894d164c2b14ce02
+      internalID: -1718585564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_37
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d196f44485d1c754ea027a1aaddbe92b
+      internalID: -240207747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_38
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 5621
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748608ad0316b064d921166f973e0d2f
+      internalID: -1358011405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc55404d3181b40b96a8bf0f3dee7f
+      internalID: 2063821263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391d5b3d2a98ea4daa98c32b1f95450
+      internalID: -857908855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_41
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba0ca8a78559e48a15526c2f947916
+      internalID: 1325789655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_42
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d551df5d90a2abc4dae41317122ed710
+      internalID: -1409752168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_43
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff787fa65d0b8d47ab2cc39963449cc
+      internalID: -1617692798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_44
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a90cea860f2bd441baf08c0cebddf9a
+      internalID: 808162030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_45
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75cba03aedded948976fe39ee55b9d8
+      internalID: -58578288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_46
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413eb24a8b15494a941c976f2aa0577
+      internalID: -692156364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_47
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7705772644eff478100dd9f6b32fad
+      internalID: 805778466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_48
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f39db25a2b85fd409ab949a369e87a7
+      internalID: -420603437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_49
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d640d9070ff26df4db00fdec69d787fb
+      internalID: -702596562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_50
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1699fa2ece0fe419757aee21142de3
+      internalID: -719109031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_51
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 5110
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c65575799e91f44b7cb3b22eb192b9
+      internalID: -573580319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01e1851d977f834480629f0dd217d6e
+      internalID: 235355399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7dc0d8b8080ef429975dff7dee2885
+      internalID: 1962653922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_54
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae50e145cc309b4eb6001a31e519673
+      internalID: 624969179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_55
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528ba53b89074834ea4fe92e7cc80a95
+      internalID: -1421297080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_56
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be96001d823de9243bde7b1f4f2f2450
+      internalID: 1083754364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_57
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a4ffb415de01e41b57bb9907c3ee93
+      internalID: -490323259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_58
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e23dc846518c5440b7e226bd098020d
+      internalID: -1284629317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_59
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9558d8a4a75803448be078f24c025cd7
+      internalID: 927709323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_60
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558980b997e53d648a00fb746200d9da
+      internalID: 1048973958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_61
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a9b5c0a99228e4d8598e253868f0dd
+      internalID: 96260685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_62
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f67c4ff212e034387ebf1e09442a69
+      internalID: 758984333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_63
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36344a8893751714aba8eafaaee1d0e1
+      internalID: -530443130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_64
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 4599
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa7c68ce8c17f4f8ec72c3c201c2eb
+      internalID: 746893414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cde4d9fa48c49459e51634e8329d5f
+      internalID: 1047787432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_66
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b514807d8288e9c478b0cf7daacc4bfe
+      internalID: -2083558154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_67
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d76c5eea142bd48ba24583a42e2b38
+      internalID: -1937895030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_68
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2afc0d1cb701a74e905b8ce5de35656
+      internalID: 1251089782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_69
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe72846be5dc4d4ebb9f1fa815cd047
+      internalID: 1602048729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_70
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd13cb93dbc3e45bb851b7592f7d48
+      internalID: -357747081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_71
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70053b2c582211145898199cb23e63bf
+      internalID: 1787634892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_72
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3fffae7f85eb54bbdbb6f513439225
+      internalID: 107386727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_73
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bb2d24be862e84da3bea97309a3511
+      internalID: -1634691049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_74
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e612fca12ce1b6f48bc151bdd340b361
+      internalID: -547147279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_75
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61941ce80195bd2458f8fd392d5b830b
+      internalID: -486115643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_76
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af18ea4a327a0f47bc18ab88718116d
+      internalID: -1143234448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_77
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 4088
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b686bcb6fb44687448e03a7f1fd72651
+      internalID: -133167755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4d1d7e28dfe6439d9c87eb8bc2354
+      internalID: 739302232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_79
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821091195e5181347851cb93f8e0e8dd
+      internalID: -1968096455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_80
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52cd658d24af79408dd7d88bc10f69c
+      internalID: 640457820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_81
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff98fd1aaf954409fc1fc126db957f
+      internalID: 1101244771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_82
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cca13b4b9e8904b84bdafcf9575afa
+      internalID: -809449857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_83
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc17b42cf810af04ab19ce5877ce5343
+      internalID: 327986675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_84
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97fc69bb52a58d42b023028792b76ac
+      internalID: 777325336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_85
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de32a734a16824742b7f7d67bb144939
+      internalID: 1783889594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_86
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db394eabf48f03f4e9bcd8309479eb25
+      internalID: -2128198519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_87
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff35cec2de40744bf99e9a78fb644f
+      internalID: 673863687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_88
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a505da819962b46b479acc06987c35
+      internalID: -1020586620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_89
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d165c00f6e48ff4f86673b353d0f255
+      internalID: -1461180866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_90
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 3577
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4663138b07e574a8fb11a71a8255b6
+      internalID: -2023823669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db70e7e8878d0145b8b816f4ac7f2b6
+      internalID: 515774792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_92
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c893e6f1c1a34ac4f95fa29bf7b83350
+      internalID: -1423128340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_93
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d7edd36cca3164a90a45a41af33afd
+      internalID: 642646705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_94
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36317b5f38a3c04fb681a8ac932df5e
+      internalID: -1637431532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_95
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bff7e8066e62a74da8caa6fc0fcaeab
+      internalID: 238929415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_96
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50edd1115bb86e04280623f2cb30e311
+      internalID: 543705234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_97
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7012a7622cdef445a922ff1674481f4
+      internalID: -496961951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_98
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91485439a766ccd499945d361ceb134d
+      internalID: -1095967133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_99
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66356e70a37b63498882f4c8503a399
+      internalID: -490670317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_100
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e766048852a0414fb888bc482dbc53d
+      internalID: 1392795550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_101
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab15fea9d0cbecf4b93e91e8e64b63da
+      internalID: -74047706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_102
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a1fed7c9b8b8b4392cc15bfc8510bc
+      internalID: -1862127588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_103
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 3066
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde7a7eee81f175479e48f7d0acf4192
+      internalID: -1283229300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88ddc8f52c0c1d41a065f13338ca430
+      internalID: 1851168801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_105
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c8111d8deae384ab3ef4975c8251b0
+      internalID: -1755127817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_106
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d155af58dab8644974a315d22cbdd9
+      internalID: 615270195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_107
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d07f05d4144c2f419261761eae1ea0d
+      internalID: 788192423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_108
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4750be19f7278b04184136419158b1f4
+      internalID: 734265183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_109
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5083325e931184d8cb4fa46b25848f
+      internalID: 1790155384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_110
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799721c49f3c5f34da527c15bd876425
+      internalID: -736279040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_111
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e95ec5281f714a9873b12f50a8af9
+      internalID: -65701793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_112
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82964b77d4dfdd648ae3806ab6e1ee5f
+      internalID: -283760770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_113
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f87196c72bd354aa9449a1cb92ee7b
+      internalID: 1182419796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_114
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1200c0c283f49fe4aa23f2dd62d2b14f
+      internalID: 1301482585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_115
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe9a2d9992568341b8dae6b40201d2b
+      internalID: 1576006628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_116
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 2555
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb57fa28e4d43c44bb50019b9b2d74f
+      internalID: -1092237647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450c3d42ed785b84b9971c4f36a6275b
+      internalID: 1327490390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_118
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311dcdd763a585f46b574658f90be187
+      internalID: -1720775904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_119
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07052b6ed1a3124cb9af121ef291c61
+      internalID: -2062827693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_120
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc955d6116c12c44845e2ba470b2d0b
+      internalID: 846434703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_121
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e0b7d918b45f04da99490483bb9441
+      internalID: 1288581133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_122
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ae386359194ec4e80090fcf54b6b61
+      internalID: 1465404011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_123
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b7bcfd006e0b749b8ea1b608a1cb59
+      internalID: -1325891723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_124
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390980ecbdc7d5649a96f1f7d14d135c
+      internalID: 472082700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_125
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0386d7bb240f5408f5c2dfae897b06
+      internalID: 128043094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_126
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828dd3dfc7fc0444cbeee69bafb5af34
+      internalID: -913171070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_127
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e87884ee4eb1f147b495b43d41c5d3b
+      internalID: 1134485827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_128
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d50db44339ce3408b649fb004aec4e
+      internalID: -225710511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_129
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 2044
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4572fb7c1678aa541a4906a1492b1ed5
+      internalID: -1196216748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50dd0ae202d30e4f891d44eec0b4960
+      internalID: 1179935089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_131
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7914abdc23d9a944c8257f5743c87986
+      internalID: -906604799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_132
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3c9d2ffafaa334887ec34cf9d97764
+      internalID: 98919737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_133
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecf35e79df26d2428e7776fec2c6628
+      internalID: 422973647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_134
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e87dce245e9a54c91f2e3c7b0ddeb7
+      internalID: 1868383181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_135
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474846948764ac840b0d00e8d094a04e
+      internalID: -1588769375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_136
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcfe14b32e8da74086a9c877c347db9
+      internalID: 1960543266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_137
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa75c73fa44afd848a83ec58711c0efe
+      internalID: 224278158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_138
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ebf7dcaba20749b6934346d7c6a29
+      internalID: -1484822921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_139
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4489a74c12313a4f9fa31a527a70546
+      internalID: 1321042414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_140
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13245789e6cf90943a7eb57ab922baea
+      internalID: -938612769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_141
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8327b94baf44cfd49ab42560d090da72
+      internalID: -1238839942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_142
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 1533
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529317bf61bef8646a5cf0a3806d4bdc
+      internalID: 1459460033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359444bffe6960e429780944d3d02c72
+      internalID: -378003489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_144
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221efc98e2c65bf429b48df1aa9b8393
+      internalID: 1247566516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_145
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714db9365fefd4145b45c9bc1f273b72
+      internalID: -509100378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_146
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e4817432235074c91b8496d7e41d0f
+      internalID: -27036690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_147
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a76624d889049542b1d74b209afdad2
+      internalID: 449823921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_148
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf9770d3710a9945b921fac4a7d0067
+      internalID: -1982650576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_149
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc81fff8bde85a945a545ed5e6f049bc
+      internalID: 20027528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_150
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e544e0cfc1b2604587ed5923ed07423
+      internalID: -1343997903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_151
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb42cc571576aad4184be2668377edf4
+      internalID: 63227194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_152
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6569ea4cc365a9d4bafcdd7f0b2b96d8
+      internalID: 1897835053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_153
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e151573b38cc249bd0151e73a69add
+      internalID: 1383101294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_154
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faa1d4f08be5644c82f7dabda8f1e1b
+      internalID: -822811626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_155
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 1022
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6914746aa021fe0489e0dfcd11551c5b
+      internalID: -472836995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05be30b3e787ee143a529b7df5e2e5cd
+      internalID: -1277220754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_157
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a1be402966d6b488af34c005c73e55
+      internalID: -2021800495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_158
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b0159dad6ceb4e8805e749a54d7a9
+      internalID: -1512602849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_159
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9e3d44e175a214caa13db9cfadd4cd
+      internalID: 2071511802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_160
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3804c6eb08f471b4bad5571f1b4f46a8
+      internalID: -2044207199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_161
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3184d6820179b345b3384423593276c
+      internalID: -442801873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_162
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a070f028bc6799c4d87bf5cac4e61d17
+      internalID: 1360105748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_163
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d17961197d2d64eabd9b132812d7b1
+      internalID: -1584339638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_164
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dacd0085c19d224b8862712f4780bb2
+      internalID: 902910173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_165
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2aa38c0dec80e4198c72914731f3ba
+      internalID: -1111717021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_166
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fdfc43bc8eff04d844e92ae8a3d06d
+      internalID: -386260351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_167
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8ecdf00db7e4f4fb876bc7c4af6d27
+      internalID: -1685339788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_168
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 511
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c08ab2ca841234aa87edb1a5d243a5
+      internalID: -1438163662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b8cc43205981142a6479ce7545a461
+      internalID: -581500126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_170
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a212ab9848720499c3097b0c0e03cb
+      internalID: -1553280294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_171
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f07434265d77d4790d8de676406ea1
+      internalID: 1861816987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_172
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e2cb987eb080743a775946823f4886
+      internalID: -1556549111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_173
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95baa503027bc854d95dbe1d9d9fc8f8
+      internalID: 1199997205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_174
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1031a291c5f666b4db2c55d0f2ff1eb3
+      internalID: -1653391857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_175
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddda83dec1f07f4fb59f8f8c8599e6d
+      internalID: 1136873218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_176
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aceb196c13e1a448b2573ca9b60d0ce
+      internalID: -479716670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_177
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ddd1f118a8534a801e142e115cd71
+      internalID: -395758916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starBomb_178
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 0
+        width: 511
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba2fa8f899f6644b0e0a9071de797e
+      internalID: -638595999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      starBomb_0: 2068849571
+      starBomb_1: -434298445
+      starBomb_10: 451878660
+      starBomb_100: 1392795550
+      starBomb_101: -74047706
+      starBomb_102: -1862127588
+      starBomb_103: -1283229300
+      starBomb_104: 1851168801
+      starBomb_105: -1755127817
+      starBomb_106: 615270195
+      starBomb_107: 788192423
+      starBomb_108: 734265183
+      starBomb_109: 1790155384
+      starBomb_11: -1885412616
+      starBomb_110: -736279040
+      starBomb_111: -65701793
+      starBomb_112: -283760770
+      starBomb_113: 1182419796
+      starBomb_114: 1301482585
+      starBomb_115: 1576006628
+      starBomb_116: -1092237647
+      starBomb_117: 1327490390
+      starBomb_118: -1720775904
+      starBomb_119: -2062827693
+      starBomb_12: -685076314
+      starBomb_120: 846434703
+      starBomb_121: 1288581133
+      starBomb_122: 1465404011
+      starBomb_123: -1325891723
+      starBomb_124: 472082700
+      starBomb_125: 128043094
+      starBomb_126: -913171070
+      starBomb_127: 1134485827
+      starBomb_128: -225710511
+      starBomb_129: -1196216748
+      starBomb_13: -298811249
+      starBomb_130: 1179935089
+      starBomb_131: -906604799
+      starBomb_132: 98919737
+      starBomb_133: 422973647
+      starBomb_134: 1868383181
+      starBomb_135: -1588769375
+      starBomb_136: 1960543266
+      starBomb_137: 224278158
+      starBomb_138: -1484822921
+      starBomb_139: 1321042414
+      starBomb_14: 1109636433
+      starBomb_140: -938612769
+      starBomb_141: -1238839942
+      starBomb_142: 1459460033
+      starBomb_143: -378003489
+      starBomb_144: 1247566516
+      starBomb_145: -509100378
+      starBomb_146: -27036690
+      starBomb_147: 449823921
+      starBomb_148: -1982650576
+      starBomb_149: 20027528
+      starBomb_15: -240702846
+      starBomb_150: -1343997903
+      starBomb_151: 63227194
+      starBomb_152: 1897835053
+      starBomb_153: 1383101294
+      starBomb_154: -822811626
+      starBomb_155: -472836995
+      starBomb_156: -1277220754
+      starBomb_157: -2021800495
+      starBomb_158: -1512602849
+      starBomb_159: 2071511802
+      starBomb_16: 1007568417
+      starBomb_160: -2044207199
+      starBomb_161: -442801873
+      starBomb_162: 1360105748
+      starBomb_163: -1584339638
+      starBomb_164: 902910173
+      starBomb_165: -1111717021
+      starBomb_166: -386260351
+      starBomb_167: -1685339788
+      starBomb_168: -1438163662
+      starBomb_169: -581500126
+      starBomb_17: -331468973
+      starBomb_170: -1553280294
+      starBomb_171: 1861816987
+      starBomb_172: -1556549111
+      starBomb_173: 1199997205
+      starBomb_174: -1653391857
+      starBomb_175: 1136873218
+      starBomb_176: -479716670
+      starBomb_177: -395758916
+      starBomb_178: -638595999
+      starBomb_18: 2066320630
+      starBomb_19: -272669257
+      starBomb_2: 204453495
+      starBomb_20: 909295556
+      starBomb_21: -1820513922
+      starBomb_22: 1007946730
+      starBomb_23: -980810670
+      starBomb_24: -1088727112
+      starBomb_25: 1391041093
+      starBomb_26: -1584903511
+      starBomb_27: -112337841
+      starBomb_28: 769673746
+      starBomb_29: -1717455646
+      starBomb_3: 1545010114
+      starBomb_30: 1894895710
+      starBomb_31: -152819547
+      starBomb_32: -978811649
+      starBomb_33: 755523166
+      starBomb_34: -1856233823
+      starBomb_35: -1940110651
+      starBomb_36: -1718585564
+      starBomb_37: -240207747
+      starBomb_38: -1358011405
+      starBomb_39: 2063821263
+      starBomb_4: 712192863
+      starBomb_40: -857908855
+      starBomb_41: 1325789655
+      starBomb_42: -1409752168
+      starBomb_43: -1617692798
+      starBomb_44: 808162030
+      starBomb_45: -58578288
+      starBomb_46: -692156364
+      starBomb_47: 805778466
+      starBomb_48: -420603437
+      starBomb_49: -702596562
+      starBomb_5: 765352670
+      starBomb_50: -719109031
+      starBomb_51: -573580319
+      starBomb_52: 235355399
+      starBomb_53: 1962653922
+      starBomb_54: 624969179
+      starBomb_55: -1421297080
+      starBomb_56: 1083754364
+      starBomb_57: -490323259
+      starBomb_58: -1284629317
+      starBomb_59: 927709323
+      starBomb_6: -1604319620
+      starBomb_60: 1048973958
+      starBomb_61: 96260685
+      starBomb_62: 758984333
+      starBomb_63: -530443130
+      starBomb_64: 746893414
+      starBomb_65: 1047787432
+      starBomb_66: -2083558154
+      starBomb_67: -1937895030
+      starBomb_68: 1251089782
+      starBomb_69: 1602048729
+      starBomb_7: -589053607
+      starBomb_70: -357747081
+      starBomb_71: 1787634892
+      starBomb_72: 107386727
+      starBomb_73: -1634691049
+      starBomb_74: -547147279
+      starBomb_75: -486115643
+      starBomb_76: -1143234448
+      starBomb_77: -133167755
+      starBomb_78: 739302232
+      starBomb_79: -1968096455
+      starBomb_8: 1036817354
+      starBomb_80: 640457820
+      starBomb_81: 1101244771
+      starBomb_82: -809449857
+      starBomb_83: 327986675
+      starBomb_84: 777325336
+      starBomb_85: 1783889594
+      starBomb_86: -2128198519
+      starBomb_87: 673863687
+      starBomb_88: -1020586620
+      starBomb_89: -1461180866
+      starBomb_9: 1365292375
+      starBomb_90: -2023823669
+      starBomb_91: 515774792
+      starBomb_92: -1423128340
+      starBomb_93: 642646705
+      starBomb_94: -1637431532
+      starBomb_95: 238929415
+      starBomb_96: 543705234
+      starBomb_97: -496961951
+      starBomb_98: -1095967133
+      starBomb_99: -490670317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

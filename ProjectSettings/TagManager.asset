@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerBullet
+  - EnemyBullet
+  - TitleMenu
+  - Enemy
+  - GrazeCircle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2568478679
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlayerBullet
+    uniqueID: 3144115073
+    locked: 0
+  - name: Player
+    uniqueID: 4111646553
+    locked: 0
+  - name: PlayerJudge
+    uniqueID: 456595399
+    locked: 0
+  - name: EnemyBullet
+    uniqueID: 369460077
+    locked: 0
+  - name: Enemy
+    uniqueID: 3082766613
+    locked: 0
+  - name: WindowFrame
+    uniqueID: 1276198115
+    locked: 0
+  - name: UI
+    uniqueID: 606518621
+    locked: 0

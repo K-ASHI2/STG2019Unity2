@@ -1,0 +1,385 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0f3565127ea76439c983403c3d914b, type: 3}
+  m_Name: PlayerBulletSetting
+  m_EditorClassIdentifier: 
+  PlayerBarrageDataList:
+  - BulletType: 0
+    PlayerSingleBulletDataList:
+    - BaseAtk: 5
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: 13.2
+      ShotPos: {x: -0.07, y: 0.1}
+    - BaseAtk: 5
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: 13.2
+      ShotPos: {x: 0.07, y: 0.1}
+  - BulletType: 1
+    PlayerSingleBulletDataList:
+    - BaseAtk: 15
+      PowerAtkRate: 1.3
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: -0.07, y: 0.1}
+    - BaseAtk: 15
+      PowerAtkRate: 1.3
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: 0.07, y: 0.1}
+    - BaseAtk: 13
+      PowerAtkRate: 1.2
+      Vx: -0.6
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 13
+      PowerAtkRate: 1.2
+      Vx: 0.6
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 1.2
+      Vx: -1.8
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 1.2
+      Vx: 1.8
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+    - BaseAtk: 11
+      PowerAtkRate: 1.1
+      Vx: -2.4
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 11
+      PowerAtkRate: 1.1
+      Vx: 2.4
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+  - BulletType: 2
+    PlayerSingleBulletDataList:
+    - BaseAtk: 18
+      PowerAtkRate: 1.3
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: -0.07, y: 0.1}
+    - BaseAtk: 18
+      PowerAtkRate: 1.3
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: 0.07, y: 0.1}
+    - BaseAtk: 16
+      PowerAtkRate: 1.2
+      Vx: -0.6
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 16
+      PowerAtkRate: 1.2
+      Vx: 0.6
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+    - BaseAtk: 15
+      PowerAtkRate: 1.2
+      Vx: -1.8
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 15
+      PowerAtkRate: 1.2
+      Vx: 1.8
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+    - BaseAtk: 14
+      PowerAtkRate: 1.1
+      Vx: -2.4
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 14
+      PowerAtkRate: 1.1
+      Vx: 2.4
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+  - BulletType: 3
+    PlayerSingleBulletDataList:
+    - BaseAtk: 18
+      PowerAtkRate: 1.3
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: -0.07, y: 0.1}
+    - BaseAtk: 18
+      PowerAtkRate: 1.3
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: 0.07, y: 0.1}
+    - BaseAtk: 16
+      PowerAtkRate: 1.2
+      Vx: -0.6
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 16
+      PowerAtkRate: 1.2
+      Vx: 0.6
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+    - BaseAtk: 15
+      PowerAtkRate: 1.2
+      Vx: -1.8
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 15
+      PowerAtkRate: 1.2
+      Vx: 1.8
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+    - BaseAtk: 14
+      PowerAtkRate: 1.1
+      Vx: -2.4
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 14
+      PowerAtkRate: 1.1
+      Vx: 2.4
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+  - BulletType: 4
+    PlayerSingleBulletDataList:
+    - BaseAtk: 18
+      PowerAtkRate: 1.3
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: -0.07, y: 0.1}
+    - BaseAtk: 18
+      PowerAtkRate: 1.3
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: 0.07, y: 0.1}
+    - BaseAtk: 16
+      PowerAtkRate: 1.2
+      Vx: -0.6
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 16
+      PowerAtkRate: 1.2
+      Vx: 0.6
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+    - BaseAtk: 15
+      PowerAtkRate: 1.2
+      Vx: -1.8
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 15
+      PowerAtkRate: 1.2
+      Vx: 1.8
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+    - BaseAtk: 14
+      PowerAtkRate: 1.1
+      Vx: -2.4
+      Vy: 8.4
+      ShotPos: {x: -0.14, y: 0.1}
+    - BaseAtk: 14
+      PowerAtkRate: 1.1
+      Vx: 2.4
+      Vy: 8.4
+      ShotPos: {x: 0.14, y: 0.1}
+  - BulletType: 5
+    PlayerSingleBulletDataList:
+    - BaseAtk: 22
+      PowerAtkRate: 2
+      Vx: -0.36
+      Vy: 3.6
+      ShotPos: {x: -0.49, y: 0.1}
+    - BaseAtk: 22
+      PowerAtkRate: 2
+      Vx: 0.36
+      Vy: 3.6
+      ShotPos: {x: 0.49, y: 0.1}
+    - BaseAtk: 22
+      PowerAtkRate: 2
+      Vx: -0.6
+      Vy: 3.6
+      ShotPos: {x: -0.51, y: 0.1}
+    - BaseAtk: 22
+      PowerAtkRate: 2
+      Vx: 0.6
+      Vy: 3.6
+      ShotPos: {x: 0.51, y: 0.1}
+    - BaseAtk: 22
+      PowerAtkRate: 2
+      Vx: -0.84
+      Vy: 3.6
+      ShotPos: {x: -0.53, y: 0.1}
+    - BaseAtk: 22
+      PowerAtkRate: 2
+      Vx: 0.84
+      Vy: 3.6
+      ShotPos: {x: 0.53, y: 0.1}
+  - BulletType: 6
+    PlayerSingleBulletDataList:
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: 3.6
+      ShotPos: {x: -0.1, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: 3.6
+      ShotPos: {x: 0.1, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: -0.24
+      Vy: 3.6
+      ShotPos: {x: -0.13, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: 0.24
+      Vy: 3.6
+      ShotPos: {x: 0.13, y: 0.1}
+  - BulletType: 7
+    PlayerSingleBulletDataList:
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: 3.6
+      ShotPos: {x: -0.1, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: 3.6
+      ShotPos: {x: 0.1, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: -0.24
+      Vy: 3.6
+      ShotPos: {x: -0.13, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: 0.24
+      Vy: 3.6
+      ShotPos: {x: 0.13, y: 0.1}
+  - BulletType: 8
+    PlayerSingleBulletDataList:
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: 3.6
+      ShotPos: {x: -0.1, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: 3.6
+      ShotPos: {x: 0.1, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: -0.24
+      Vy: 3.6
+      ShotPos: {x: -0.13, y: 0.1}
+    - BaseAtk: 12
+      PowerAtkRate: 0
+      Vx: 0.24
+      Vy: 3.6
+      ShotPos: {x: 0.13, y: 0.1}
+  - BulletType: 9
+    PlayerSingleBulletDataList:
+    - BaseAtk: 6
+      PowerAtkRate: 1
+      Vx: 5.939697
+      Vy: 5.939697
+      ShotPos: {x: 0.4242641, y: 0.4242641}
+    - BaseAtk: 6
+      PowerAtkRate: 1
+      Vx: 8.4
+      Vy: 0
+      ShotPos: {x: 0.6, y: 0}
+    - BaseAtk: 6
+      PowerAtkRate: 1
+      Vx: 5.939697
+      Vy: -5.939697
+      ShotPos: {x: 0.4242641, y: -0.4242641}
+  - BulletType: 10
+    PlayerSingleBulletDataList:
+    - BaseAtk: 6
+      PowerAtkRate: 1
+      Vx: -5.939697
+      Vy: 5.939697
+      ShotPos: {x: -0.4242641, y: 0.4242641}
+    - BaseAtk: 6
+      PowerAtkRate: 1
+      Vx: -8.4
+      Vy: 0
+      ShotPos: {x: -0.6, y: 0}
+    - BaseAtk: 6
+      PowerAtkRate: 1
+      Vx: -5.939697
+      Vy: -5.939697
+      ShotPos: {x: -0.4242641, y: -0.4242641}
+  - BulletType: 11
+    PlayerSingleBulletDataList:
+    - BaseAtk: 6
+      PowerAtkRate: 1
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: 0, y: 0.6}
+    - BaseAtk: 6
+      PowerAtkRate: 1
+      Vx: 0
+      Vy: -8.4
+      ShotPos: {x: 0, y: -0.6}
+  - BulletType: 12
+    PlayerSingleBulletDataList:
+    - BaseAtk: 20
+      PowerAtkRate: 0
+      Vx: 5.939697
+      Vy: 5.939697
+      ShotPos: {x: 0.4242641, y: 0.4242641}
+    - BaseAtk: 20
+      PowerAtkRate: 0
+      Vx: 8.4
+      Vy: 0
+      ShotPos: {x: 0.6, y: 0}
+    - BaseAtk: 20
+      PowerAtkRate: 0
+      Vx: 5.939697
+      Vy: -5.939697
+      ShotPos: {x: 0.4242641, y: -0.4242641}
+  - BulletType: 13
+    PlayerSingleBulletDataList:
+    - BaseAtk: 20
+      PowerAtkRate: 0
+      Vx: -5.939697
+      Vy: 5.939697
+      ShotPos: {x: -0.4242641, y: 0.4242641}
+    - BaseAtk: 20
+      PowerAtkRate: 0
+      Vx: -8.4
+      Vy: 0
+      ShotPos: {x: -0.6, y: 0}
+    - BaseAtk: 20
+      PowerAtkRate: 0
+      Vx: -5.939697
+      Vy: -5.939697
+      ShotPos: {x: -0.4242641, y: -0.4242641}
+  - BulletType: 14
+    PlayerSingleBulletDataList:
+    - BaseAtk: 20
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: 8.4
+      ShotPos: {x: 0, y: 0.6}
+    - BaseAtk: 20
+      PowerAtkRate: 0
+      Vx: 0
+      Vy: -8.4
+      ShotPos: {x: 0, y: -0.6}

@@ -1,0 +1,31 @@
+忘れないように手順をまとめておく
+
+※自機の弾追加手順
+①PlayerBulletSetting.csのBulletTypeに弾の種類を追加
+②PlayerBulletPoolsのPlayerBulletPoolsとBulletImageTypeにBulletPoolと弾の画像の設定を追加し、GetBulletPoolメソッドの中にも処理を追加
+③BulletGenerater.csに弾生成処理を追加
+④UnityEditorのAssetsのPlayerBulletSettingに弾の設定を追加(Gravity Scaleは0、Freeze Rotationにチェック)
+⑤UnityEditorのHierarchyのPlayerBulletPools下にBulletPoolを追加し、PlayerBulletPoolsのスクリプト参照にも追加
+
+※弾の設定値(DXライブラリの座標系からUnity座標系への変換)
+上下の向きはDXライブラリは下が正、Unityは上が正
+速度はDXライブラリが1フレーム(1/60秒)に移動するpixel量、UnityはPixels Per Unit(1秒単位に移動するメートル量、デフォルトなら100pixel)
+バグで1フレームに2倍更新して移動しているので速度は2倍にする
+座標はDXライブラリはピクセル、UnityはPixels Per Unit
+・結論
+速度はC++のソースコードの1.2倍の値を設定にし、Y軸方向は反転する
+座標はC++のソースコードの1/100の値を設定する
+弾の発射間隔はC++のソースコードの半分にする(インターバルの持ち方を変えたので設定値は個別に要確認)
+
+
+※弾の透過率設定
+各弾のプレハブのRenderから倍率を設定する
+DXライブラリと同じ倍率にしておけば問題なさそう
+
+※メニュー画面の文字
+MSゴシックをUnityで使うのは難しそうなので、ほかのフォントで代用する
+フォントの違いで同じ色にすると見づらいので色は揃えない
+文字のAlignemntは左上に寄せる(DXライブラリの座標指定を左上基準で行っているため、座標をそろえるために必要)
+
+
+
